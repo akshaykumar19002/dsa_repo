@@ -1,6 +1,6 @@
 package com.akshay.dsa.models;
 
-import com.akshay.dsa.basic.LinkedList;
+import com.akshay.dsa.basic.linkedlist.LinkedList;
 
 public class LabeledNode {
 	

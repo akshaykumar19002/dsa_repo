@@ -98,4 +98,17 @@ public class BinarySearchTree{
 		return temp;
 	}
 	
+	public void traversal() {
+		preorderTraversal(this.root);
+	}
+	
+	private void preorderTraversal(BinaryTreeNode node) {
+		if (node == null)
+			return;
+		System.out.println(node.getData());
+		preorderTraversal(node.getLeft());
+		preorderTraversal(node.getRight());
+		return;
+	}
+	
 }

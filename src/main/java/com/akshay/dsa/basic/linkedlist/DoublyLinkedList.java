@@ -1,4 +1,4 @@
-package com.akshay.dsa.basic;
+package com.akshay.dsa.basic.linkedlist;
 
 import java.util.NoSuchElementException;
 

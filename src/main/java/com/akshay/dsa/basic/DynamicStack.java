@@ -2,6 +2,8 @@ package com.akshay.dsa.basic;
 
 import java.util.EmptyStackException;
 
+import com.akshay.dsa.basic.linkedlist.LinkedList;
+
 /**
  * Dynamic Stack using LinkedList
  * @author Akshay Kumar

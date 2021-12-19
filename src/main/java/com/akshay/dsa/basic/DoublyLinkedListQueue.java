@@ -1,5 +1,6 @@
 package com.akshay.dsa.basic;
 
+import com.akshay.dsa.basic.linkedlist.DoublyLinkedList;
 import com.akshay.dsa.exceptions.ElementNotPresentException;
 import com.akshay.dsa.exceptions.EmptyQueueException;
 

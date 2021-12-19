@@ -1,5 +1,6 @@
 package com.akshay.dsa.basic;
 
+import com.akshay.dsa.basic.linkedlist.LinkedList;
 import com.akshay.dsa.exceptions.EmptyQueueException;
 
 /**
